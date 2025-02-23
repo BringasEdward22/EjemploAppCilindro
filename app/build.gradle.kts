@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "sistemas.unc.edu.pe.appcilindro"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "sistemas.unc.edu.pe.appcilindro"
